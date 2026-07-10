@@ -32,7 +32,7 @@ The dashboard enables stakeholders to:
 - Support faster business decisions
 
 ## 📈 Dashboard Preview
-![Uploading Dashboard.png…]()
+<img width="1917" height="1076" alt="Dashboard" src="https://github.com/user-attachments/assets/c051970b-4b2f-4965-a4aa-43c37399b6e3" />
 
 ## 📊 Dashboard Features
 Executive KPIs:
