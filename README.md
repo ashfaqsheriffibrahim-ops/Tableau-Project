@@ -55,10 +55,7 @@ Executive KPIs:
 - Ticket Priority Distribution
 - Resolution vs Backlog Analysis
 - KPI Summary Cards
-
-## Project Workflow
-<img width="711" height="652" alt="image" src="https://github.com/user-attachments/assets/5f76b2c5-88b1-4ab2-9357-169cf9666094" />
-
+  
 ## 📊 KPI Metrics
 KPI	Description
 - Revenue	Revenue generated across four service teams
@@ -98,3 +95,6 @@ KPI	Description
 - Predictive Analytics for Ticket Backlog
 - Executive Mobile Dashboard
 - Real-time KPI Monitoring
+
+## Project Workflow
+<img width="711" height="652" alt="image" src="https://github.com/user-attachments/assets/5f76b2c5-88b1-4ab2-9357-169cf9666094" />
